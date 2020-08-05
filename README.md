@@ -1,2 +1,2 @@
 # My_own_slides
-Testing slides to et familiar with gitHub
+Testing slides to get familiar with gitHub
